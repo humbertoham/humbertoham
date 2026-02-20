@@ -90,8 +90,7 @@ Clean architecture > quick hacks.
 ## 🌐 Portfolio
 
 Website: https://humbertoham.com  
-GitHub: https://github.com/your-username  
-LinkedIn: [Your LinkedIn Link]
+LinkedIn: https://linkedin.com/in/humbertohamd
 
 ---
 
